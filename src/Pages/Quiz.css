@@ -1,0 +1,29 @@
+.paper {
+  padding: 2;
+  max-width: 500;
+}
+
+image {
+  width: 128;
+  height: 128;
+}
+
+.largeAvatar {
+  width: 7;
+  height: 7;
+  background-color: "#3f51b5";
+}
+
+.questionSection {
+  color: "#3f51b5";
+  font-family: "Roboto";
+  font-size: "x-large";
+  font-weight: "500";
+  min-height: "35px";
+  width: "100%";
+}
+
+.blueBg {
+  color: "#3f51b5";
+  width: "100px";
+}
